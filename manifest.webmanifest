@@ -1,15 +1,20 @@
 {
-  "name": "분당경영고 Tax Lab - 과세·면세 체험",
-  "short_name": "분당 Tax Lab",
-  "description": "분당경영고등학교 디지털 기반 과세·면세 및 부가가치세 체험 앱",
+  "name": "분당경영고등학교 TAX LAB",
+  "short_name": "TAX LAB",
   "start_url": "./",
-  "scope": "./",
   "display": "standalone",
-  "orientation": "portrait-primary",
-  "background_color": "#f7f9fc",
-  "theme_color": "#2a3089",
+  "background_color": "#f5fbff",
+  "theme_color": "#3477d3",
   "icons": [
-    {"src":"icon-192.png","sizes":"192x192","type":"image/png","purpose":"any maskable"},
-    {"src":"icon-512.png","sizes":"512x512","type":"image/png","purpose":"any maskable"}
+    {
+      "src": "icon-192.png",
+      "sizes": "192x192",
+      "type": "image/png"
+    },
+    {
+      "src": "icon-512.png",
+      "sizes": "512x512",
+      "type": "image/png"
+    }
   ]
 }
